@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh272/TO-DO-List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://adarsh272.github.io/TO-DO-List",
+  "bugs": {
+    "url": "https://github.com/adarsh272/TO-DO-List/issues"
+  },
+  "homepage": "https://github.com/adarsh272/TO-DO-List#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
